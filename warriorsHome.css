@@ -1,0 +1,13 @@
+body {
+   background-color: gold;
+}
+
+h1 {
+	font-size: 100px;
+	text-align: center;
+	color: mediumblue;
+}
+
+table{
+	float: right;
+}
