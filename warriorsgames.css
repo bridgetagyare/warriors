@@ -1,0 +1,50 @@
+body {
+   background-color: #ffe866;
+   font-family: Verdana, sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	 background-color: mediumblue;
+}
+
+li {
+    float: Right;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: clear;
+}
+
+h2 {
+	text-align:center;
+	color: mediumblue;
+	font-size: 30px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #ffffb3;
+  text-align: left;
+  padding: 8px;
+  color: mediumblue;
+}
+tr:nth-child(even) {
+  background-color: #ffffb3;
+}
+
+a {
+	  color: mediumblue;
+}
+  
+ .a {
+ color: white;
+ } 
